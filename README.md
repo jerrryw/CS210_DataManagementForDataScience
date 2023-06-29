@@ -1,2 +1,2 @@
-# CS210_Data_management_for_Data_Science
-Rutgers University-New Brunswick CS210 Data management for Data Science
+# CS210_DataManagementForDataScience
+Rutgers University-New Brunswick CS210 Data Management for Data Science
